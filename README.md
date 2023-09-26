@@ -1,4 +1,5 @@
-# tunley is an iOS app that shows my favorite artist , Alejandro Sanz's all time music fetched by an iTunes API , demostrating some competencies of Swift Languages such TableViews , Navigations , storyboard , etc...
+#tunley 
+Tunley is an iOS app that shows my favorite artist , Alejandro Sanz's all time music fetched by an iTunes API , demostrating some competencies of Swift Languages such TableViews , Navigations , storyboard , etc...
 
 Library | Loom - 26 September 2023 - Watch Video
 
